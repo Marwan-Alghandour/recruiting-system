@@ -6,7 +6,6 @@
 - Introduction
 - Quick Start
 - Technologies Used
-- Deployment
 - Contributors
 
 ## Introduction
@@ -47,7 +46,6 @@ npm run client
 - Dotenv
 - Morgan
 
-## Deployment
 
 ## Contributors
 
