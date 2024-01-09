@@ -1,0 +1,42 @@
+.profileBody{
+        padding:0;
+        margin:0;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 10px;
+        
+}
+.position{
+    color:black;
+    font-size:30px;
+}
+.card{
+    padding:0;
+    margin:0;
+    position: relative;
+}
+h3{
+    font-size:50px;
+}
+p{
+    padding: 0;
+    margin:0;
+    font-size:20px;
+   
+    color: black;
+}
+.spanQ{
+    padding:0;
+    margin:0;
+    font-size: 20px;
+    margin:20px;
+    padding:5px;
+    color: black;
+
+}
+.inline{
+    display:inline-block;
+    margin-right:5px;
+}
