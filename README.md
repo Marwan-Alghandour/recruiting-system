@@ -56,6 +56,10 @@ npm run client
 [Marwan Mohamed](https://github.com/Marwan-Alghandour), 
 [Salma Ehab](https://github.com/salmaehab)
 
+## Live Demo
+
+[Videos of the project sections](https://drive.google.com/file/d/1aAfRbFctcm7qrArEcBYsHdjJFvyyNiPk/view?fbclid=IwAR3srsPqIQH3gvflTLvpZapjxs-s39KxRp5MlP2t9A7_-Xs7UiHINWUwmiE)
+
 ### Version
 
 1.0.0
